@@ -1,0 +1,2 @@
+# regresion lineal IA
+ 
